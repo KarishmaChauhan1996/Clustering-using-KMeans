@@ -112,7 +112,7 @@ Cluster Centers: Analyzing the cluster centroids to understand the main characte
 
 **Predicting segment for new data**
 
-Based on the evaluation, we identified distinct clusters with specific characteristics. These clusters could represent meaningful segments, such as customer types, product categories, or behavioral groups. The interpretation of these clusters is documented in the results folder.
+
 
 
 
