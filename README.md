@@ -96,6 +96,10 @@ random_state: Ensures reproducibility.
 
 After fitting, we plotted the clusters using PCA (Principal Component Analysis) to reduce the data to two dimensions for visualization. This helps in understanding how well-separated the clusters are.
 
+![kmeans](https://github.com/user-attachments/assets/dd04822e-1b63-4501-ae74-66e99e1c28d3)
+
+![kmeanss](https://github.com/user-attachments/assets/ca1cc0eb-fb96-42ad-a659-2ca530d8493f)
+
 **Model Evaluation**
 
 Several metrics were used to assess the clustering performance:
