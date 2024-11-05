@@ -18,14 +18,6 @@ Model Evaluation
 
 Results and Interpretation
 
-How to Run
-
-Future Improvements
-
-Contributing
-
-License
-
 
 **Project Overview**
 
